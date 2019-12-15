@@ -10,6 +10,10 @@ To get started with the project you can clone it to your local machine by runnin
 
 `git clone https://github.com/mouradaouinat/ur-challenge-boiler-plate.git`<br>
 
+To get all the dependencies needed for this project run:<br>
+
+`npm install`<br>
+
 To get started with the project navigate to the root directory and run:<br>
 
 `npm run start`<br>
