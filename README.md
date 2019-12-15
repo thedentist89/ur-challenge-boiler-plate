@@ -1,4 +1,4 @@
-# ur-challenge-boiler-plate
+# UR Challenge Boiler Plate
 
 <hr />
 
@@ -14,12 +14,12 @@ To get started with the project navigate to the root directory and run:<br>
 
 `npm run start`<br>
 
-this will run a local server at `http://localhost:8080/`<br>
+This will run a local server at `http://localhost:8080/`<br>
 
-you can also build the code and bundle it for production by running:<br>
+You can also build the code and bundle it for production by running:<br>
 
 `npm run build`<br>
 
-lint your code using:<br>
+Lint your code using:<br>
 
 `npm run lint`<br>
